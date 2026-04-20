@@ -194,5 +194,5 @@ Normalising the columns of A:
 
 ## Author
 
-[Jacek Schmidt] jacek14schmidt@gmail.com
+Jacek Schmidt jacek14schmidt@gmail.com
 

@@ -1,5 +1,5 @@
 # Compressed Sensing: Sparse Signal Recovery via Iterative Thresholding Methods
-**Report (PDF):** [[Zenodo DOI]()]  
+**Report (PDF):** [[Zenodo DOI](https://doi.org/10.5281/zenodo.19675183)]  
 **Code Repository:** [[GitHub link](https://github.com/jacekschmidt/Compressed_Sensing/edit/main/README.md)]
 ## Overview
 

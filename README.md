@@ -1,5 +1,6 @@
-# Compressed Sensing and Iterative Thresholding Methods
-
+# Compressed Sensing: Sparse Signal Recovery via Iterative Thresholding Methods
+**Report (PDF):** [[Zenodo DOI]()]  
+**Code Repository:** [[GitHub link](https://github.com/jacekschmidt/Compressed_Sensing/edit/main/README.md)]
 ## Overview
 
 This project investigates compressed sensing as a framework for recovering sparse signals from underdetermined linear systems. In many practical settings, signals of interest are sparse or compressible when expressed in an appropriate basis, allowing accurate reconstruction from significantly fewer measurements than traditional sampling methods require.
